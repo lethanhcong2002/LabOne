@@ -9,6 +9,7 @@ import ProjectFive from './ProjectFive';
 import ProjectSix from './ProjectSix';
 import ProjectSeven from './ProjectSeven';
 import ProjectEight from './ProjectEight';
+import Calculator from './CaluculatorApp';
 
 const Stack = createStackNavigator();
 
@@ -26,6 +27,7 @@ export default function AppNavigation() {
       <Stack.Screen name="6" component={ProjectSix} />
       <Stack.Screen name="7" component={ProjectSeven} />
       <Stack.Screen name="8" component={ProjectEight} />
+      <Stack.Screen name="9" component={Calculator} />
     </Stack.Navigator>
   );
 }
