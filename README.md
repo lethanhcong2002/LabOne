@@ -1,1 +1,1 @@
-Video nằm ở trong thư mục src/video/
+Link Video youtube: https://youtu.be/lr6GuMSSOqc
